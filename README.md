@@ -1,1 +1,1 @@
-# Prism-Laucher-Offline-
+# PrismLaucher: Offline Edition
